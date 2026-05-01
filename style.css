@@ -1,0 +1,39 @@
+h1{
+  color: red;
+  text-align: center;
+  border: solid ;
+  border-radius: 20px;
+  font-style: italic;
+  border-color: black;
+  font-family: Archivo black;
+}
+body{
+  background-color: blue;
+}
+p{
+  color: yellow;
+  font-family: 'Style Script', cursive;
+  border: solid ;
+}
+
+}
+h3{
+  color: white;
+  font-style: italic;
+  font-family: ;
+  text-align: center;
+}
+input{
+  font-size: 30px;
+  height: 40.px;
+  align-items: center;
+  border: solid ;
+  border-color: green;
+}
+img{
+  border: solid ;
+  border-color: gold;
+}
+checkbox{
+  border: solid ;
+}
